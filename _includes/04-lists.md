@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+
+* :computer: snow crash
+* :earth_asia: cryptonomicon
+* :crystal_ball: anathem
